@@ -3,6 +3,12 @@
 This Repo make simple any Json req/res flow. simply make a new 'Request'.
 When make a request specify Json Class will back via request and send any data type.
 
+
+Nuget Package
+===============
+
+Download via Microsoft >>>> [Download Now](https://www.nuget.org/packages/Peyman.JsonSimpleAPI/1.0.0)
+
 ## Example
 ```csharp    
     var api_request = new Request(URL, "Authorization", $"Basic blahblahblahblah==");
