@@ -50,7 +50,6 @@ namespace Peyman.JsonSimpleAPI
                 }
 
                 return default;
-
             }
             catch (WebException ex)
             {
@@ -65,9 +64,6 @@ namespace Peyman.JsonSimpleAPI
             }
 
             return default;
-
-
         }
-
     }
 }
